@@ -1,0 +1,12 @@
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\bin\Debug\NanoCoreBaseServer.dll
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\bin\Debug\NanoCoreBaseServer.pdb
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\bin\Debug\NanoCoreBaseServer.xml
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\bin\Debug\ServerPlugin.dll
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\bin\Debug\ServerPlugin.xml
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\obj\Debug\NanoCoreBaseServer.vbprojResolveAssemblyReference.cache
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\obj\Debug\NanoCoreBaseServer.Resources.resources
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\obj\Debug\NanoCoreBaseServer.vbproj.GenerateResource.Cache
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\obj\Debug\NanoCoreBaseServer.dll
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\obj\Debug\NanoCoreBaseServer.xml
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\obj\Debug\NanoCoreBaseServer.pdb
+C:\Users\Liam\Documents\Visual Studio 2013\Projects\NanoCoreBase\NanoCoreBaseServer\obj\Debug\NanoCoreBaseServer.ExampleControl.resources
